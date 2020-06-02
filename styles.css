@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Josefin";
+  src: url("JosefinSans-VariableFont_wght.ttf");
+}
+
+.head {
+  font-size: 50px;
+}
+
+.body{
+  background-color: purple;
+  font-family: "Josefin";
+}
+
+.menu {
+  display: flex;
+}
+
+.name {
+  font-family: "Josefin";
+}
+
+.option{
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  font-family: "Josefin";
+}
